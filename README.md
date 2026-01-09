@@ -39,7 +39,3 @@ console.log(timeAgo(new Date(Date.now() - 31536000000))); // "1 year ago"
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
