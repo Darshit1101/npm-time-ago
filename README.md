@@ -1,8 +1,5 @@
 # time-ago-dk
 
-[![npm version](https://badge.fury.io/js/time-ago-dk.svg)](https://badge.fury.io/js/time-ago-dk)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 A tiny JavaScript utility to convert dates into human readable "time ago" format.
 
 ## Features
