@@ -1,0 +1,17 @@
+{
+  "name": "time-ago-dk",
+  "version": "1.0.0",
+  "description": "A tiny JavaScript utility to convert dates into human readable 'time ago' format.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "keywords": [
+    "time",
+    "ago",
+    "utility"
+  ],
+  "author": "Darshit Kakadiya",
+  "license": "MIT"
+}
