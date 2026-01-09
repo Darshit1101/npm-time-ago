@@ -1,9 +1,17 @@
 {
   "name": "time-ago-dk",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A tiny JavaScript utility to convert dates into human readable 'time ago' format.",
   "main": "src/index.js",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Darshit1101/npm-time-ago.git"
+  },
+  "homepage": "https://github.com/Darshit1101/npm-time-ago#readme",
+  "bugs": {
+    "url": "https://github.com/Darshit1101/npm-time-ago/issues"
+  },
   "scripts": {
     "test": "node test/index.test.js"
   },
@@ -12,7 +20,9 @@
     "ago",
     "date",
     "javascript",
-    "utility"
+    "utility",
+    "time-ago",
+    "date-utils"
   ],
   "author": "Darshit Kakadiya",
   "license": "MIT"
