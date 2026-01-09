@@ -1,6 +1,6 @@
 {
   "name": "time-ago-dk",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A tiny JavaScript utility to convert dates into human readable 'time ago' format.",
   "main": "src/index.js",
   "type": "module",
@@ -10,6 +10,8 @@
   "keywords": [
     "time",
     "ago",
+    "date",
+    "javascript",
     "utility"
   ],
   "author": "Darshit Kakadiya",
